@@ -1,0 +1,4 @@
+Paste your resume text here. This file is used to compute similarity against job descriptions.
+
+Example:
+Experienced Python backend engineer with 5+ years building APIs, microservices, AWS, SQL, and distributed systems. Skilled in Python, Django, FastAPI, Docker, and CI/CD.
