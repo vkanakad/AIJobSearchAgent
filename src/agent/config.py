@@ -22,5 +22,7 @@ class Config:
 
     daily_run_time: str = os.getenv("DAILY_RUN_TIME", "09:00")
 
+    serpapi_key: str = os.getenv("SERPAPI_KEY", "")
+
 
 cfg = Config()
